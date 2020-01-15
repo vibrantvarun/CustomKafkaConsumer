@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65a0c43e-71f2-48a4-b3c4-140bbe37db53" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ConsumewithOffesetAndTopicName" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VVb05nb3CbyYi5rIn2EkUdF3CF" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.PlainJson.SimpleConsumerKt">
+    <configuration name="PlainJson.SimpleConsumerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ConsumewithOffesetAndTopicName.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PlainJson.SimpleConsumerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlainJson.SimpleProducerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ConsumewithOffesetAndTopicName.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PlainJson.SimpleProducerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.PlainJson.SimpleConsumerKt" />
+        <item itemvalue="Kotlin.PlainJson.SimpleProducerKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65a0c43e-71f2-48a4-b3c4-140bbe37db53" name="Default Changelist" comment="" />
+      <created>1577340983886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577340983886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="470" height="456" key="DebuggerActiveHint" timestamp="1577355102040">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="470" height="456" key="DebuggerActiveHint/0.27.1366.741@0.27.1366.741" timestamp="1577355102040" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577341233205">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1577341233205" />
+    <state width="1320" height="219" key="GridCell.Tab.0.bottom" timestamp="1577368019408">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577368019408" />
+    <state width="1320" height="219" key="GridCell.Tab.0.center" timestamp="1577368019407">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577368019407" />
+    <state width="1320" height="219" key="GridCell.Tab.0.left" timestamp="1577368019406">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577368019406" />
+    <state width="1320" height="219" key="GridCell.Tab.0.right" timestamp="1577368019407">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577368019407" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1577368019410">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577368019410" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1577368019409">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1577368019409" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1577368019408">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1577368019408" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1577368019410">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1577368019410" />
+    <state x="336" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577356513875">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="336" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1577356513875" />
+    <state x="248" y="95" width="869" height="602" key="find.popup" timestamp="1577360988889">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="248" y="95" width="869" height="602" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1577360988889" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577360552525">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1577360552525" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/PlainJson/SimpleConsumer.kt</url>
+          <line>96</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
